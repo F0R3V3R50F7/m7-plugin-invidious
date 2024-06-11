@@ -1,0 +1,14 @@
+{
+	"description": "Changelog (11/06/24):<p>Day One Release!",
+	"author": "F0R3V3R50F7",
+	"homepage": "https://github.com/dajesusmodz/m7-plugin-invidious",
+	"title": "Invidious",
+	"synopsis": "Search & Stream Videos / Music from Invidious",
+	"version": "1.0",
+        "file": "invidious.js",
+	"m7Version": "7.0.0",
+	"type": "ecmascript",
+	"id": "invidious",
+	"icon": "logo.png",
+	"category": "video"
+}
