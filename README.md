@@ -8,6 +8,7 @@
 * Stream Videos from Invidious
 * Get Video Recommendations Based On Watch History
 * Browse Trending Videos
+* Subscribe To Your Favorite Creators & Recieve Upload Notifications
 
 
 **How to Install (Official Plugin Repository):**

@@ -1,10 +1,10 @@
 {
-	"description": "Changelog (12/06/24):<p>* Raised Recommended Video Cache Limit to 150. (Improved Loading Times)<p>* Added Options for Clearing & Removing From History/Cache.<p>* Added Cache Statistics in Settings.<p>* Prevented Already Watched Videos from Appearing in Recommended.<p>* Added 'Continue / Watch Again' to Recommended Page.",
+	"description": "Changelog (13/06/24):<p>* Added Channel Pages.<p>* Added ability to subscribe to channel. (With Upload Notifications).",
 	"author": "F0R3V3R50F7",
 	"homepage": "https://github.com/dajesusmodz/m7-plugin-invidious",
 	"title": "Invidious",
 	"synopsis": "Search & Stream Videos / Music from Invidious",
-	"version": "1.3",
+	"version": "1.4",
         "file": "invidious.js",
 	"m7Version": "7.0.0",
 	"type": "ecmascript",
