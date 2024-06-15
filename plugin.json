@@ -1,10 +1,10 @@
 {
-	"description": "Changelog (13/06/24):<p>* Added Channel Pages.<p>* Added ability to subscribe to channel. (With Upload Notifications).",
+	"description": "Changelog (15/06/24):<p>* Randomized Sub Feed.<p>* Added Menu Options for 'Check for New Releases' to Save Resources.<p>* Lowered Default Recommendation Value (Subscription feed added to compensate).<p>* Improved Loading Statements.",
 	"author": "F0R3V3R50F7",
 	"homepage": "https://github.com/dajesusmodz/m7-plugin-invidious",
 	"title": "Invidious",
 	"synopsis": "Search & Stream Videos / Music from Invidious",
-	"version": "1.4",
+	"version": "1.6",
         "file": "invidious.js",
 	"m7Version": "7.0.0",
 	"type": "ecmascript",
